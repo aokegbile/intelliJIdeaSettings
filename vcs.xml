@@ -234,6 +234,10 @@
           <option name="url" value="http://bitbucket.corp.bcbsal.org/scm/pa/predetermination.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.corp.bcbsal.org" />
+          <option name="userName" value="t71062" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\T71062\IdeaProjects" />
