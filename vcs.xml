@@ -274,6 +274,10 @@
           <option name="url" value="http://bitbucket.corp.bcbsal.org/scm/pa/bafeeschedules.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.corp.bcbsal.org/scm/pa/bundling.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\T71062\IdeaProjects" />
