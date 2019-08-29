@@ -1,0 +1,6 @@
+<application>
+  <component name="NexusIQ.ApplicationSettings">
+    <option name="iqServerUrl" value="http://bcsrv574:8070/" />
+    <option name="username" value="Sonatype_scanner" />
+  </component>
+</application>
