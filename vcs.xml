@@ -306,6 +306,10 @@
           <option name="url" value="http://bitbucket.corp.bcbsal.org/scm/ic/iclaims-parent.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.corp.bcbsal.org/scm/pap/provider-direct-deposit-ws.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\T71062\IdeaProjects" />
