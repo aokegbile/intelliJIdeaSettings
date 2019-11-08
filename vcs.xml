@@ -322,6 +322,10 @@
           <option name="url" value="http://bitbucket.corp.bcbsal.org/scm/pap/provider-biometric-ws.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.corp.bcbsal.org/scm/pap/common-claims-model.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\T71062\IdeaProjects" />
